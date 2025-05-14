@@ -20,7 +20,7 @@
   "mslug3sc": {
     "download": "https://archive.org/download/fbnarcade-fullnonmerged/arcade/mslug3sc.zip"
   }
-  "mslug": {
+  "mslug*": {
     "download": "https://archive.org/download/fbnarcade-fullnonmerged/arcade/mslug*.zip"
   }
 }
