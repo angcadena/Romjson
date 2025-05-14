@@ -18,9 +18,9 @@
     "download": "https://archive.org/download/fbnarcade-fullnonmerged/arcade/kof2002m.zip"
   },
   "mslug3sc": {
-    "download": "https://archive.org/download/fbnarcade-fullnonmerged/arcade/mslug3sc.zip"
+    "download": "https://archive.org/download/RetroArch_FBN_roms_metalslug/mslug3sc.zip"
   }
   "mslug*": {
-    "download": "https://archive.org/download/fbnarcade-fullnonmerged/arcade/mslug*.zip"
+    "download": "https://archive.org/download/RetroArch_FBN_roms_metalslug/mslug*.zip"
   }
 }
